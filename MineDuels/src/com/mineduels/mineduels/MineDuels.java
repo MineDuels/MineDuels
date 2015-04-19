@@ -1,3 +1,9 @@
+/*
+
+A lot of testing going on here. Don't remind me how broken everything would be right now.
+
+*/
+
 package com.mineduels.mineduels;
 
 import java.util.logging.Logger;
