@@ -1,0 +1,7 @@
+# To-Do List
+1. Keep filling in the runnables on MineDuals.java!
+2. Create the databases.
+3. Create the arenas.
+	3.1. Create a function that allows people to join.
+	3.2. Create a function that disallows people to join.
+	3.3. Create a function that kicks everyone from the events.
